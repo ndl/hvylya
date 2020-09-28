@@ -1,0 +1,2 @@
+# Adjust the intensity of the 'long' tests.
+#set (TEST_LOAD_FACTOR 10)
